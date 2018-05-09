@@ -1,0 +1,11 @@
+C:\Users\Łukasz\source\repos\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\netcoreapp2.0\StrategyDesignPattern.deps.json
+C:\Users\Łukasz\source\repos\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\netcoreapp2.0\StrategyDesignPattern.runtimeconfig.json
+C:\Users\Łukasz\source\repos\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\netcoreapp2.0\StrategyDesignPattern.runtimeconfig.dev.json
+C:\Users\Łukasz\source\repos\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\netcoreapp2.0\StrategyDesignPattern.dll
+C:\Users\Łukasz\source\repos\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\netcoreapp2.0\StrategyDesignPattern.pdb
+C:\Users\Łukasz\source\repos\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp2.0\StrategyDesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\source\repos\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp2.0\StrategyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp2.0\StrategyDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Łukasz\source\repos\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp2.0\StrategyDesignPattern.AssemblyInfo.cs
+C:\Users\Łukasz\source\repos\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp2.0\StrategyDesignPattern.dll
+C:\Users\Łukasz\source\repos\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp2.0\StrategyDesignPattern.pdb
